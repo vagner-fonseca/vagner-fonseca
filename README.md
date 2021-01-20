@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm [Vagner Fonseca](https://www.linkedin.com/in/vagnercfonseca/)
+###  👋 I'm [Vagner Fonseca](https://www.linkedin.com/in/vagnercfonseca/)
 
 Bem vindo ao meu Github! Sou o Vagner, Formado em Engenharia Civil, e cursando Análise e Desenvolvimento de Sistemas, com foco em Frontend.  Quando eu não estou estudando, eu gosto de cozinhar, jogar video game e ouvir Queen, Beatles, ACDC, e Raça Negra. 
 A área da programação me encantou e eu gosto todos os dias de aprender coisas novas.
