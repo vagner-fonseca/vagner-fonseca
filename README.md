@@ -8,8 +8,8 @@ A área da programação me encantou e eu gosto todos os dias de aprender.
 - Javascript 
 - Html
 - Css
-- ReactJs
-- React Native
+- Angular
+- 
 
 ### 😍 O que gosto de fazer:
 - Além de programar, gosto de desafios e aprender coisas novas.
