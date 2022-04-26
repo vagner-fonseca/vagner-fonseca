@@ -9,13 +9,12 @@ A área da programação me encantou e eu gosto todos os dias de aprender.
 - Html
 - Css
 - Angular
-- 
+
 
 ### 😍 O que gosto de fazer:
 - Além de programar, gosto de desafios e aprender coisas novas.
 
 ### 💡 Metas para esse ano:
-- Ter minha primeira oportunidade na area de desenvolvimento numa grande empresa
 - Aprender ainda mais JavaScript, TypeScript
 - Atingir o nível avançado de Francês
 - Crescer como pessoa
